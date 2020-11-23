@@ -24,4 +24,3 @@ The project can be imported in Eclipse and developers can start right away. The 
 The project has been well documented in 3 docs - Software Requirement Specification, Class Design, Project Documentation. Please go through it to get more insight about the working of the project.
 
 Since this was one of our first project during our undergraduate, there are a lot of bugs. The coding style and standards might not be up to the mark. Please bear with us.
-
